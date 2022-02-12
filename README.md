@@ -8,5 +8,5 @@ https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territor
 
 - Data 
 
-https://wiki.dados.gov.br/Politica-de-Dados-Abertos.ashx 
+https://dados.gov.br/dataset
 
