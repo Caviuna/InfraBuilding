@@ -11,4 +11,4 @@ https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territor
 https://dados.gov.br/dataset
 
 
-### Study phase for the analysis ciclo. 
+### Study phase for the analysis cycle. 
