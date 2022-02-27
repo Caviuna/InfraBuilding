@@ -12,3 +12,5 @@ https://dados.gov.br/dataset
 
 
 ### Study phase for the analysis cycle. 
+
+### Practice in real project
