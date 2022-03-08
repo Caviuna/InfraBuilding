@@ -17,6 +17,7 @@ https://dados.gov.br/dataset
 
 
 
-- At first, this project has as a parameter the studies for the most appropriate implementation soon after.
+- At this first moment, it is a matter of trying to carry out training in filtering the database, in addition to implementing research techniques that resulted in data processing in order to seek solutions to real problems.
+- Nesse primeiro instante, trata-se de buscar realizar um treinamento de filtrar a base de dados, além de implementar tecnicas de pesquisa que resultaram em tratamento dos dados de forma a buscar soluções para problemas reais. 
 
  
