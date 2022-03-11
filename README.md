@@ -21,3 +21,5 @@ https://dados.gov.br/dataset
 - Nesse primeiro instante, trata-se de buscar realizar um treinamento de filtrar a base de dados, além de implementar tecnicas de pesquisa que resultaram em tratamento dos dados de forma a buscar soluções para problemas reais. 
 
  
+# Second step 
+- Predictive map, using machine learning for orientation applied the segments.  
