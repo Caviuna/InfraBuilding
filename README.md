@@ -13,6 +13,9 @@ https://dados.gov.br/dataset
 
 ### Study phase for the analysis cycle. 
 
+- Each notebook performs a step, whether for data processing or geoposition adjustment. With this, unify the activities in a more organized and readable way.
+- Cada notebook realiza uma etapa, quer seja para o tratamento de dados ou ajuste de geoposição. Com isso realizar unir atividades de forma mais organizada e legível.
+
 ### Practice in real project
 
 
